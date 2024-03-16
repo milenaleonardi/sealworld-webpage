@@ -10,6 +10,7 @@ This is a landing page to promote the Seal World, a place where you can visit se
 
 ## <img src="https://github.com/milenaleonardi/color-flipper/assets/30026683/d0ca765c-22ce-4837-b7ee-2fd0cce2e1d0" width="30" height="30"/> Preview 
 
+https://github.com/milenaleonardi/sealworld-webpage/assets/30026683/3143b64a-9522-4a1f-96aa-5c3987506def
 
 
 
